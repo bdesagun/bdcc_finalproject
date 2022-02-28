@@ -1,0 +1,7 @@
+matplotlib
+pandas
+botocore
+boto3
+beautifulsoup4 
+lxml
+plotly
